@@ -23,7 +23,7 @@ function Banners() {
                     />
                     <Carousel.Caption>
                         <h5>Quais são as funcionalidades?</h5>
-                        <p>Confira os principais recursos disponíveis no app</p>
+                        <p>Confira os principais livros disponíveis na nossa plataforma digital</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
