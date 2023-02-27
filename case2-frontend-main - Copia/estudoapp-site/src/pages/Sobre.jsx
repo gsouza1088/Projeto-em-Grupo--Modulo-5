@@ -19,7 +19,8 @@ function Sobre() {
     return (
         <Container className='conteudo-margin'>
             <h1>Sobre</h1>
-            <p>{sobre.text}</p>
+             <p>Criado no intuito de facilitar a vida de todos os amantes por leitura, com a praticide de ter sua própria biblioteca em suas mãos, sem precisar sair do conforto da sua casa. E podendo levar para diversos tipos de ambientes a sua escolha.</p> 
+             
             <Depoimentos />
         </Container>
     );

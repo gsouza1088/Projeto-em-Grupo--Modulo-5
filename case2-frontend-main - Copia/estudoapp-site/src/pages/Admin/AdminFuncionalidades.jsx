@@ -100,24 +100,24 @@ function AdminFuncionalidades() {
             <Form onSubmit={handleSubmit}>
                 <Form.Group className="mb-3" controlId="title">
                     <Form.Label>Título</Form.Label>
-                    <Form.Control type="text" placeholder="Digite o título da funcionalidade" />
+                    <Form.Control type="text" placeholder="Digite o título do produto" />
                 </Form.Group>
                 <Form.Group className="mb-3" controlId="description">
                     <Form.Label>Descrição</Form.Label>
-                    <Form.Control type="text" placeholder="Digite a descrição" />
+                    <Form.Control type="text" placeholder="Digite a Categoria" />
                 </Form.Group>
                 <Button variant="primary" type="submit">
                     Cadastrar
                 </Button>
             </Form>
             <hr />
-            <p>Lista de Funcionalidades</p>
+            <p>Lista de Produtos</p>
             <Table striped hover>
                 <thead>
                     <tr>
                         <th>Id</th>
                         <th>Nome</th>
-                        <th>Descrição</th>
+                        <th>Categoria </th>
                         <th>Opções</th>
                     </tr>
                 </thead>
