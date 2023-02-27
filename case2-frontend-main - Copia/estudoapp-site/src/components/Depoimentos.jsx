@@ -13,7 +13,7 @@ function Depoimentos() {
                 <strong>Depoimento 1</strong>
                 <p>
                     "Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br />
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas repellendus at voluptate voluptatibus illo ad vel ut numquam, quas sunt hic esse, dolore recusandae est vero quod minima eius repellat."
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas repellendus at voluptate voluptatibus illo ad vel ut numquam, quas sunt hic esse, dolore recusandae est vero quod minima eius repella  aislany"
                 </p>
             </Col>
         </Row>
