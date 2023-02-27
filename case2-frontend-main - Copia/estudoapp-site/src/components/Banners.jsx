@@ -10,7 +10,7 @@ function Banners() {
                         alt="Slide incrível"
                     />
                     <Carousel.Caption>
-                        <h5>EstudoApp</h5>
+                        <h5>EstudoAp</h5>
                         <p>Um app para facilitar a vida do estudante!</p>
                     </Carousel.Caption>
                 </Carousel.Item>
