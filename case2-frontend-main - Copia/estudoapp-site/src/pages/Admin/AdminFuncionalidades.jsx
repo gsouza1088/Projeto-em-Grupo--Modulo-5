@@ -94,9 +94,9 @@ function AdminFuncionalidades() {
 
     return (
         <Container className="conteudo-margin">
-            <h1>Admin Funcionalidades</h1>
+            <h1>Admin Produtos</h1>
             <hr />
-            <h2>Adicionar Funcionalidade</h2>
+            <h2>Adicionar Produtos</h2>
             <Form onSubmit={handleSubmit}>
                 <Form.Group className="mb-3" controlId="title">
                     <Form.Label>Título</Form.Label>
