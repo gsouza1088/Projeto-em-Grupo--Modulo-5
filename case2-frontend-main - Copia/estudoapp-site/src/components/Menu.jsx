@@ -9,7 +9,7 @@ function Menu() {
     return (<Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" fixed="top">
         <Container>
             <LinkContainer to="/">
-                <Navbar.Brand>EstudoApp Site</Navbar.Brand>
+                <Navbar.Brand>Biblioteca Virtual</Navbar.Brand>
             </LinkContainer>
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
             <Navbar.Collapse id="responsive-navbar-nav">
