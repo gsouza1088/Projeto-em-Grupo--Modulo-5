@@ -13,7 +13,7 @@ function Destaques() {
                             A Biblioteca Virtual é muito fácil de usar. Você pode criar sua biblioteca da forma que quiser!
                         </Card.Text>
                         <LinkContainer to="/">
-                            <Button variant="warning">Acessar o EstudoApp</Button>
+                            <Button variant="warning">Home</Button>
                         </LinkContainer>
                     </Card.Body>
                 </Card>
@@ -45,7 +45,7 @@ function Destaques() {
                         </LinkContainer>
                     </Card.Body>
                 </Card>
-            </Col>                        
+            </Col>
         </Row>
     );
 }
