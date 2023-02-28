@@ -22,15 +22,15 @@ function Banners() {
                         alt="Outro slide incrível" width="1000" height="400"
                     />
                     <Carousel.Caption>
-                        <h5>Quais são as funcionalidades?</h5>
+                        <h5>Nossos Produtos</h5>
                         <p>Confira os principais livros disponíveis na nossa plataforma digital</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="https://senalbacaxias.com.br/site/wp-content/uploads/2022/10/imagem-biblioteca2-e1556215501802.png"
-                        alt="Último slide" width="1000" height="400"
+                        src="https://img.freepik.com/vetores-gratis/conceito-de-biblioteca-de-livros-de-audio-com-laptop-3d-e-mulher-em-fones-de-ouvido-isometricos_1284-64170.jpg?w=2000"
+                        alt="Último slide" width="800" height="500"
                     />
                     <Carousel.Caption>
                         <h5>Contato para parcerias?</h5>
