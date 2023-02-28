@@ -82,7 +82,7 @@ function AdminFuncionalidades() {
             return
         }
         alert('Funcionalidade editada com sucesso')
-        
+
         colunaTitulo.innerText = inputTitulo.value
         colunaDescricao.innerText = inputDescricao.value
 
@@ -107,7 +107,7 @@ function AdminFuncionalidades() {
                     <Form.Control type="text" placeholder="Digite a Categoria" />
                 </Form.Group>
                 <Button variant="primary" type="submit">
-                    Cadastrar
+                    Cadastrar produto
                 </Button>
             </Form>
             <hr />
@@ -129,7 +129,7 @@ function AdminFuncionalidades() {
                             <td>{funcionalidade.description}</td>
                             <td>
                                 <Button variant="primary" onClick={(event) => {habilitarEdicao(event.target, funcionalidade.id)}}>Editar</Button>
-                                 | 
+                                 |
                                  <Button variant="danger" onClick={() => {excluirFuncionalidade(funcionalidade.id)}}>Excluir</Button>
                             </td>
                         </tr>

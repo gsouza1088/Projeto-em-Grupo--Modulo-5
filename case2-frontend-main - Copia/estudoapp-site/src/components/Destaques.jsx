@@ -14,7 +14,7 @@ function Destaques() {
                         Acesso superfacil para selecionar seus livros favoritos.
                         </Card.Text>
                         <LinkContainer to="/">
-                            <Button variant="warning">Acessar o EstudoApp</Button>
+                            <Button variant="warning">Home</Button>
                         </LinkContainer>
                     </Card.Body>
                 </Card>
@@ -46,7 +46,7 @@ function Destaques() {
                         </LinkContainer>
                     </Card.Body>
                 </Card>
-            </Col>                        
+            </Col>
         </Row>
     );
 }
