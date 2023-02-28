@@ -10,7 +10,8 @@ function Destaques() {
                     <Card.Body>
                         <Card.Title>Fácil de usar</Card.Title>
                         <Card.Text>
-                            A Biblioteca Virtual é muito fácil de usar. Você pode criar sua biblioteca da forma que quiser!
+                        Você pode criar sua estante virtual da forma que quiser!
+                        Acesso superfacil para selecionar seus livros favoritos.
                         </Card.Text>
                         <LinkContainer to="/">
                             <Button variant="warning">Acessar o EstudoApp</Button>
@@ -38,7 +39,7 @@ function Destaques() {
                     <Card.Body>
                         <Card.Title>Suporte Virtual</Card.Title>
                         <Card.Text>
-                            a Biblioteca Virtual  oferece suporte para você. Entre em contato conosco e tire suas dúvidas.
+                           Oferecemos suporte para você a qualquer momento. Entre em contato conosco e tire suas dúvidas.
                         </Card.Text>
                         <LinkContainer to="/contato">
                         <Button variant="warning">Entre em contato</Button>

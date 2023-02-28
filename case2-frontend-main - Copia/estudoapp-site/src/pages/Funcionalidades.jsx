@@ -29,7 +29,7 @@ function Funcionalidades() {
             <h1>Produtos</h1>
             <img
                         className="d-block w-100"
-                        src="https://blogdocolecionador.com.br/wp-content/uploads/2018/05/como-comecar-uma-colecao-de-livros-dicas.jpg"
+                        src="https://static.vecteezy.com/ti/vetor-gratis/t2/4752957-livros-de-receitas-na-prateleira-vetor.jpg"
                         alt="Outro slide incrível" width="5000" height="200"
                     />
             
