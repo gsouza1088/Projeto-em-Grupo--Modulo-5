@@ -6,9 +6,14 @@ import Banners from '../components/Banners'
 function Home() {
     return (
         <>
-            <Banners />
+            <Banners /> 
+            <br/>
+            <br/>
             <Container>
                 <Destaques />
+
+                <br />
+                <br />
                 <Depoimentos />
             </Container>
         </>

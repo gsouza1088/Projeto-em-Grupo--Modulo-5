@@ -7,7 +7,7 @@ function Banners() {
                 <Carousel.Item>
                     <img 
                         className="d-block w-100"
-                        src="https://img2.gratispng.com/20180802/ohb/kisspng-digital-library-biblioteca-virtual-miguel-de-cerva-5b62b232f21e00.1410786815331948029917.jpg"
+                        src="https://blog.nubank.com.br/wp-content/uploads/2022/06/Leitura_Brasil_Header.jpg"
                         alt="Slide incrível" width="1000" height="400"
                     />
                     <Carousel.Caption>
@@ -18,7 +18,7 @@ function Banners() {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="https://labs.dualpixel.com.br/wp-content/uploads/2014/12/73-bilbiotecas.jpg"
+                        src="https://cdn.shopify.com/s/files/1/1785/2781/collections/header-livros-02_1400x.progressive.jpg?v=1627421307"
                         alt="Outro slide incrível" width="1000" height="400"
                     />
                     <Carousel.Caption>
@@ -29,8 +29,8 @@ function Banners() {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="https://img.freepik.com/vetores-gratis/conceito-de-biblioteca-de-livros-de-audio-com-laptop-3d-e-mulher-em-fones-de-ouvido-isometricos_1284-64170.jpg?w=2000"
-                        alt="Último slide" width="800" height="500"
+                        src="https://tm.ibxk.com.br/2021/10/25/25025439320000.jpg?ims=1120x420"
+                        alt="Último slide" width="900" height="400"
                     />
                     <Carousel.Caption>
                         <h5>Contato para parcerias?</h5>

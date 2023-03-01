@@ -3,6 +3,7 @@ import Container from 'react-bootstrap/Container'
 import Banners from "../components/Banners"
 import { useEffect, useState } from "react"
 import CmsApi from '../api/CmsApi'
+import main from '../assets/css/main.css'
 
 function Funcionalidades() {
     const [funcionalidades, setFuncionalidades] = useState([])
@@ -26,12 +27,12 @@ function Funcionalidades() {
         <Banners />
         <Container className="conteudo-margin">
             
-            <h1>Produtos</h1>
-            <img
-                        className="d-block w-100"
-                        src="https://static.vecteezy.com/ti/vetor-gratis/t2/4752957-livros-de-receitas-na-prateleira-vetor.jpg"
-                        alt="Outro slide incrível" width="5000" height="200"
-                    />
+            <h2>Nossos Produtos</h2> <br />
+            <br />
+
+            <p>Na Biblioteca virtual, você encontra o que deseja em Livros de diversos gêneros como romance, terror e ficção cientifica e muito mais!!! <br></br></p>
+            <br />
+            <br />
             
             
 

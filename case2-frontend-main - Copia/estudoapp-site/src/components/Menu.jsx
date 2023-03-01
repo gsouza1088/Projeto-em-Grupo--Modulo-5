@@ -6,7 +6,7 @@ import { LinkContainer } from 'react-router-bootstrap'
 
 function Menu() {
 
-    return (<Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" fixed="top">
+    return (<Navbar collapseOnSelect expand="lg" bg="warning" variant="warning" fixed="top">
         <Container>
             <LinkContainer to="/">
                 <Navbar.Brand>Biblioteca Virtual</Navbar.Brand>
