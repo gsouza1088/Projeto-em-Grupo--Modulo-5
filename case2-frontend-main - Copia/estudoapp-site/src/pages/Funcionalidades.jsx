@@ -3,7 +3,7 @@ import Container from 'react-bootstrap/Container'
 import Banners from "../components/Banners"
 import { useEffect, useState } from "react"
 import CmsApi from '../api/CmsApi'
-import main from '../assets/css/main.css'
+import '../assets/css/main.css'
 
 function Funcionalidades() {
     const [funcionalidades, setFuncionalidades] = useState([])

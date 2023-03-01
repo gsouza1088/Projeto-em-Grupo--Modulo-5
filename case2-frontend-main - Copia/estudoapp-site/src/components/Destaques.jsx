@@ -13,8 +13,8 @@ function Destaques() {
                         Você pode criar sua estante virtual da forma que quiser!
                         Acesso superfacil para selecionar seus livros favoritos.
                         </Card.Text>
-                        <LinkContainer to="/">
-                            <Button variant="warning">Home</Button>
+                        <LinkContainer to="/Sobre">
+                            <Button variant="warning">Sobre</Button>
                         </LinkContainer>
                     </Card.Body>
                 </Card>
